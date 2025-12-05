@@ -1,0 +1,34 @@
+
+# Środowiska wirtualne
+.venv/
+env/
+venv/
+
+# Pliki Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bazy danych
+*.db
+*.sqlite
+*.sqlite3
+
+# Systemowe pliki macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logi i tymczasowe pliki
+*.log
+*.tmp
+*.bak
+
+# Inne pliki generowane automatycznie
+*.swp
+*~
